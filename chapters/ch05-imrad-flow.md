@@ -15,6 +15,7 @@ The article should tell one evidence-led story across Introduction, Methods, Res
 - **Visual-first Results drafting**: figures → tables → selection → one-sentence summaries → connected results text.
   - When to use: Turning completed analyses into a Results narrative.
   - How: Draft figures to expose trends, tables for exact values, select evidence tied to objectives, then narrate the main outcomes sequentially without extended interpretation.
+  - Boundary: This is a drafting workflow. It does not require the reader-facing subsection to begin with a numerical finding. Establish a new question or comparison briefly when the preceding text has not supplied that context.
 - **Six-move discussion arc**: purpose/key results → contextualized findings → limitations/strengths/future needs → conclusions/implications/recommendations.
   - When to use: Structuring an empirical Discussion.
   - How: Open with aims and key results; discuss each key result in the Results order; assess uniqueness, usefulness, and literature contribution; state limitations and strengths; close with warranted implications and remaining gaps.
@@ -38,9 +39,20 @@ The article should tell one evidence-led story across Introduction, Methods, Res
 - **Introduction without a gap**: Background accumulates but never motivates the study.
 - **Methods leakage**: Partial findings or interpretations appear in procedural description.
 - **Table narration**: Results repeat every cell instead of selecting patterns tied to objectives.
+- **Abrupt finding**: A new target or evaluation appears before the reader knows why it follows. Preserve or add a brief scientific connection, then give the finding.
 - **Premature interpretation**: Results offer detailed explanations that belong in Discussion.
 - **Discussion reshuffle**: Key findings appear in a new order, making correspondence hard to trace.
 - **Generic conclusion**: Claims exceed the reported evidence or do not answer the stated aim.
+
+## Results subsection openings
+
+Read the preceding passage together with the proposed opening. Check whether the reader already knows what is being tested, why it matters here, and what comparison makes the result informative. Supply only the missing context, then present the main result promptly. A short statement of evaluation purpose can belong in Results even when procedural details belong in Methods.
+
+For example, a paper may move from discharge accuracy to the other outputs of a multivariable model. A suitable bridge is: “The discharge comparisons assess one component of the multivariable forecast. We next evaluate the remaining land-state outputs against persistence to determine whether they improve on carrying the initial state forward.” The measured findings can then follow.
+
+If the preceding paragraph already introduces that evaluation, begin directly with its finding. Independent evaluations may connect through the study's shared purpose; do not invent a causal link or repeat a stock transition at every heading.
+
+This guidance applies the source article's discussion of transitional sentences and paragraphs on pages 6–7 to its Results drafting workflow on page 10.
 
 ## Worked Example
 
@@ -58,7 +70,7 @@ Create an alignment grid before final revision: each aim should have a method, r
 1. Use the research purpose as the thread joining all sections.
 2. Build the Introduction from problem to gap to contribution.
 3. Order Methods so the analysis can be recreated.
-4. Let figures and tables organize Results, but narrate only objective-relevant evidence.
+4. Let figures and tables organize Results; orient the reader at changes of question and narrate objective-relevant evidence.
 5. Interpret key findings in their established order and distinguish Results from Discussion.
 6. Close with implications and recommendations that remain within the evidence boundary.
 

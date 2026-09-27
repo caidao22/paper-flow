@@ -1,6 +1,6 @@
 ---
 name: paper-flow
-description: "Knowledge base from \"Creating Logical Flow When Writing Scientific Articles\" by Edward Barroga and Glafera Janet Matanguihan. Use when planning, drafting, revising, or auditing scientific prose for logical flow, paragraph coherence, transitions, and IMRAD structure."
+description: "Audit, plan, draft, or revise scientific prose for logical flow, including abrupt concept introductions, broken or false transitions, duplicated claims, misplaced sentences, paragraph coherence, and IMRAD alignment. Based on \"Creating Logical Flow When Writing Scientific Articles\" by Edward Barroga and Glafera Janet Matanguihan."
 ---
 
 <!-- argument-hint: [draft text, flow problem, concept, or chapter number] -->
@@ -10,7 +10,8 @@ description: "Knowledge base from \"Creating Logical Flow When Writing Scientifi
 
 ## How to Use This Skill
 
-- With a draft, diagnose the highest-level flow break first, then revise only what the evidence supports.
+- With a draft, diagnose the highest-level flow break first, then revise only what the evidence supports. When revising a subsection, read the preceding passage and check what the reader needs before its first finding.
+- With a flow-audit request, read [references/flow-audit.md](references/flow-audit.md). Select `diagnose-only`, `interactive`, or `revise` from the user's wording; do not rewrite in `diagnose-only` mode.
 - With a section name (`introduction`, `methods`, `results`, or `discussion`), apply the corresponding sequence in ch05.
 - With a concept (`topic sentence`, `transition`, `coherence`), consult the topic index and load the relevant chapter.
 - With `ch01`–`ch05`, load that module for deeper guidance and examples.
@@ -41,7 +42,7 @@ Transitions expose relationships; they do not create them. If “therefore” jo
 
 Construct each paragraph as:
 
-- **First/topic sentence** — makes a specific assertion and frames the paragraph.
+- **First/topic sentence** — establishes the controlling idea, which may be a finding, a scientific question, or the purpose of the next comparison.
 - **Middle/supporting sentences** — explain, define, qualify, or provide evidence for that assertion.
 - **Last/concluding sentence** — synthesizes the point and, when useful, prepares the next paragraph.
 
@@ -71,10 +72,16 @@ Use the study purpose as the invariant thread:
 
 - **Introduction**: problem → current knowledge and limitation → aim and contribution.
 - **Methods**: design → setting → subjects → data collection → analysis.
-- **Results**: figures/tables reveal the evidence → report main outcomes in a deliberate sequence.
+- **Results**: select evidence from figures/tables → orient the reader where needed → report main outcomes in a deliberate sequence.
 - **Discussion**: purpose and key findings → interpret findings in the same order → limitations and strengths → implications, conclusions, and remaining gaps.
 
 Readers should be able to trace each aim to a method, each method to a result, and each key result to its interpretation.
+
+### Orient the reader at a change of question
+
+Evidence-led Results should make the main finding easy to locate while preserving the context needed to understand it. When a subsection changes the target, comparison, scale, or evaluation purpose, briefly establish why that question follows before presenting its result. A topic sentence can provide this orientation; the heading alone may be insufficient.
+
+Keep this bridge specific and brief. If the preceding passage already supplies the question and comparison, a direct finding is appropriate. Preserve useful transitions during compression, and avoid adding a mechanical preamble to every subsection. See ch05 for an example distinguishing reader context from drafting order.
 
 ### Prefer precision and brevity, but preserve meaning
 
@@ -90,28 +97,33 @@ Replace inflated phrases with direct equivalents (`in order to` → `to`; `a lar
 | [ch02](chapters/ch02-words-and-sentences.md) | Precise Words and Clear Sentences | concision, sentence focus, lexical links |
 | [ch03](chapters/ch03-paragraph-architecture.md) | Paragraph Architecture | one idea–one paragraph, three-part paragraph |
 | [ch04](chapters/ch04-transitions-and-coherence.md) | Transitions and Coherence | transition taxonomy, logical vs lexical coherence |
-| [ch05](chapters/ch05-imrad-flow.md) | Flow Across IMRAD | introduction triad, method sequence, result-first visuals, discussion arc |
+| [ch05](chapters/ch05-imrad-flow.md) | Flow Across IMRAD | introduction triad, method sequence, Results orientation, discussion arc |
 
 ## Topic Index
 
+- **Abrupt concept introduction** → references/flow-audit.md, ch03, ch04
 - **Argument quality** → ch01, ch04
 - **Brevity and concision** → ch02
+- **Claim duplication** → references/flow-audit.md, ch01, ch03, ch05
 - **Coherence** → ch03, ch04
 - **Discussion structure** → ch05
 - **IMRAD** → ch05
 - **Introduction structure** → ch05
 - **Lexical coherence** → ch02, ch04
 - **Methods order** → ch05
+- **Misplaced sentence** → references/flow-audit.md, ch03, ch05
 - **One idea–one paragraph** → ch03
 - **Paragraph structure** → ch03
 - **Poor-flow diagnosis** → ch01
 - **Results sequence** → ch05
+- **Subsection openings** → ch04, ch05
 - **Sentence clarity** → ch02
 - **Topic sentences** → ch03
 - **Transitions** → ch04
 
 ## Supporting Files
 
+- [references/flow-audit.md](references/flow-audit.md) — operational protocol for abrupt concepts, transitions, duplicate claims, sentence placement, and interactive one-by-one repair
 - [glossary.md](glossary.md) — key terms and precise definitions
 - [patterns.md](patterns.md) — reusable drafting and revision procedures
 - [cheatsheet.md](cheatsheet.md) — compact decision rules and flow checks

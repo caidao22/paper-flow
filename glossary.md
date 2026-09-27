@@ -40,7 +40,7 @@
 
 **Supporting sentence** — A sentence that explains, defines, evidences, qualifies, or illustrates the topic sentence (Ch 3).
 
-**Topic sentence** — A sentence that states a paragraph’s specific controlling assertion and frames what follows (Ch 3).
+**Topic sentence** — A sentence that establishes a paragraph's controlling idea and frames what follows. It may introduce a finding, a scientific question, or the purpose of a comparison; see Ch 3.
 
 **Transition** — A word, phrase, sentence, or paragraph that makes the relationship between consecutive ideas explicit (Ch 4).
 

@@ -23,7 +23,7 @@
 ## Precision-First Compression
 **When to use**: Prose is inflated or indirect.
 **How**: Record the claim, qualifiers, quantities, and scope; replace wordy phrases; activate strong verbs; remove empty modifiers; compare the revision against the recorded facts.
-**Trade-offs**: Excessive compression can erase uncertainty or necessary methodological detail.
+**Trade-offs**: Excessive compression can erase uncertainty, the motivation for a comparison, or a necessary transition.
 
 ## Semantic Transition Selection
 **When to use**: Connecting clauses, sentences, or paragraphs.
@@ -33,7 +33,7 @@
 ## Two-Anchor Paragraph Bridge
 **When to use**: Two coherent paragraphs do not connect smoothly.
 **How**: In one sentence, refer to the completed topic and state how it motivates, limits, contrasts with, or enables the next topic.
-**Trade-offs**: A bridge cannot rescue two unrelated paragraphs; reorder or remove content first.
+**Trade-offs**: Independent evaluations can connect through a shared study purpose without a causal dependency. If no relevant connection exists, reconsider their placement.
 
 ## IMRAD Alignment Grid
 **When to use**: Planning or auditing an empirical paper.
@@ -43,7 +43,7 @@
 ## Visual-First Results Drafting
 **When to use**: Analyses are complete but the Results narrative is unclear.
 **How**: Draft figures for trends, tables for exact values, select those tied to objectives, summarize each in one sentence, then order the summaries into a results story.
-**Trade-offs**: Visual order should follow the scientific question, not software output order.
+**Trade-offs**: This drafting order does not dictate the first sentence of a subsection. Follow the scientific question and retain any brief orientation needed before its finding; see ch05.
 
 ## Ordered Discussion Arc
 **When to use**: A Discussion repeats results or wanders through literature.

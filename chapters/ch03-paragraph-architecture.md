@@ -2,13 +2,13 @@
 
 ## Core Idea
 
-A coherent paragraph develops one specific assertion through relevant explanation and evidence, then resolves or hands off that idea. Paragraph flow depends on architecture, not merely adjacent-sentence transitions.
+A coherent paragraph develops one controlling idea through relevant explanation and evidence, then resolves or hands off that idea. At a subsection opening, that idea may introduce the scientific question or comparison before its finding. Paragraph flow depends on architecture, not merely adjacent-sentence transitions.
 
 ## Frameworks Introduced
 
 - **Three-part paragraph**: topic sentence → supporting sentences → concluding or transition sentence.
   - When to use: Drafting or diagnosing an evidence-bearing paragraph.
-  - How: Make a specific assertion first; supply definitions, evidence, explanation, and qualification; synthesize the point or bridge to what follows.
+  - How: Establish the finding, question, or purpose that controls the paragraph; supply relevant evidence, explanation, and qualification; synthesize the point or bridge to what follows.
   - Why it works: The reader knows what to expect, how each detail functions, and why the paragraph matters.
 - **One idea–one paragraph**: Give each paragraph one controlling idea.
   - When to use: A paragraph has multiple findings, themes, or rhetorical jobs.
@@ -19,7 +19,7 @@ A coherent paragraph develops one specific assertion through relevant explanatio
 
 ## Key Concepts
 
-- **Topic sentence**: The sentence that states the paragraph’s specific controlling assertion.
+- **Topic sentence**: The sentence that establishes the paragraph's controlling idea and gives the reader enough context to follow its development.
 - **Supporting sentence**: A sentence that explains, defines, evidences, qualifies, or illustrates that assertion.
 - **Concluding sentence**: A sentence that synthesizes the paragraph and may prepare the next one.
 - **Deductive organization**: Leading with the main assertion and then supporting it.
@@ -55,7 +55,7 @@ The result is one claim with evidence and interpretation, not five sentences joi
 
 ## Key Takeaways
 
-1. Give each paragraph a specific assertion, not a broad subject label.
+1. Give each paragraph a specific controlling idea; a question or purpose can orient the reader before a finding.
 2. Make every middle sentence serve the topic sentence.
 3. Explain evidence rather than merely citing or listing it.
 4. Split paragraphs when the rhetorical job changes.
